@@ -1,7 +1,8 @@
 # This is the title
 
 ## This is title 2
-*This is a bold text*
+**This is a bold text**
+*This is italic text*
 ##This is title 3
 If you want to make a list:
 - item 1 
