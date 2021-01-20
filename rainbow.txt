@@ -4,3 +4,6 @@ Blue
 Red 
 Orange
 Brown
+Pink
+
+Indigo!!!
