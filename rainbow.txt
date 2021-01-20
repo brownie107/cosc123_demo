@@ -2,6 +2,7 @@ Here are the colours of a rainbow:
 
 Blue 
 Red 
+Purple
 Orange
 Brown
 Pink
